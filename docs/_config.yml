@@ -120,8 +120,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "jekyll-jtdocs on GitHub":
-    - "https://github.com/junian/jekyll-jtdocs"
+  "jekyll-jtdocs GitHub Template repo":
+    - "https://github.com/pages-templates/jekyll-jtdocs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
