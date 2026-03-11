@@ -16,8 +16,8 @@
 title: jekyll-jtdocs Template
 description: 1-Click GitHub Repository Template to use jekyll-jtdocs on GitHub Pages
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.junian.dev/jekyll-jtdocs/" # the base hostname & protocol for your site, e.g. http://example.com
-repository: junian/jekyll-jtdocs # for github-metadata
+url: "https://pages-templates.github.io/jekyll-jtdocs/" # the base hostname & protocol for your site, e.g. http://example.com
+repository: pages-templates/jekyll-jtdocs # for github-metadata
 remote_theme: junian/jekyll-jtdocs
 
 # If you're monetizing your docs with Google AdSense, set your publisher ID here.
